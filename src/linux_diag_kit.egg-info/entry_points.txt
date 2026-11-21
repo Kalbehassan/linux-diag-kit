@@ -1,2 +1,0 @@
-[console_scripts]
-linux-diag = linux_diag_kit.cli:main
